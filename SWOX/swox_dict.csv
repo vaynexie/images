@@ -1,7 +1,7 @@
 image,label,heatmap
 cello_guitar.jpg,acoustic guitar,b
-cello_guitar.jpg,banjo,c
-cello_guitar.jpg,cello,e
+cello_guitar.jpg,banjo,e
+cello_guitar.jpg,cello,c
 cello_guitar.jpg,electric guitar,d
 cello_guitar.jpg,violin,a
 desktop1.JPEG,computer keyboard,c
