@@ -1,20 +1,20 @@
 image,label,heatmap
-cello_guitar.jpg,acoustic guitar,a2
-cello_guitar.jpg,banjo,a3
-cello_guitar.jpg,cello,b1
-cello_guitar.jpg,electric guitar,a1
-cello_guitar.jpg,violin,b2
+cello_guitar.jpg,acoustic guitar,a3
+cello_guitar.jpg,banjo,a1
+cello_guitar.jpg,cello,b2
+cello_guitar.jpg,electric guitar,a2
+cello_guitar.jpg,violin,b1
 desktop1.JPEG,computer keyboard,a2
 desktop1.JPEG,desktop computer,b1
 desktop1.JPEG,mouse,a1
 desktop1.JPEG,screen,c1
-ILSVRC2012_val_00001247.JPEG,cab,a2
-ILSVRC2012_val_00001247.JPEG,car wheel,a1
+ILSVRC2012_val_00001247.JPEG,cab,a1
+ILSVRC2012_val_00001247.JPEG,car wheel,a3
 ILSVRC2012_val_00001247.JPEG,castle,b1
-ILSVRC2012_val_00001247.JPEG,convertible,a3
+ILSVRC2012_val_00001247.JPEG,convertible,a2
 ILSVRC2012_val_00001247.JPEG,sports car,a4
-ILSVRC2012_val_00002107.JPEG,desk,b1
-ILSVRC2012_val_00002107.JPEG,desktop computer,b2
-ILSVRC2012_val_00002107.JPEG,loudspeaker,a2
+ILSVRC2012_val_00002107.JPEG,desk,b2
+ILSVRC2012_val_00002107.JPEG,desktop computer,b1
+ILSVRC2012_val_00002107.JPEG,loudspeaker,a1
 ILSVRC2012_val_00002107.JPEG,projector,c1
-ILSVRC2012_val_00002107.JPEG,radio,a1
+ILSVRC2012_val_00002107.JPEG,radio,a2
