@@ -1,13 +1,13 @@
 image,label,heatmap
 cello_guitar.jpg,acoustic guitar,b
-cello_guitar.jpg,banjo,d
-cello_guitar.jpg,cello,c
-cello_guitar.jpg,electric guitar,e
-cello_guitar.jpg,violin,a
-desktop1.JPEG,computer keyboard,d
-desktop1.JPEG,desktop computer,c
-desktop1.JPEG,mouse,b
-desktop1.JPEG,screen,a
+cello_guitar.jpg,banjo,a
+cello_guitar.jpg,cello,e
+cello_guitar.jpg,electric guitar,d
+cello_guitar.jpg,violin,c
+desktop1.JPEG,computer keyboard,a
+desktop1.JPEG,desktop computer,d
+desktop1.JPEG,mouse,c
+desktop1.JPEG,screen,b
 ILSVRC2012_val_00001247.JPEG,cab,a
 ILSVRC2012_val_00001247.JPEG,car wheel,b
 ILSVRC2012_val_00001247.JPEG,castle,e
